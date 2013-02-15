@@ -11,5 +11,6 @@
 	<h2>
 		<s:property value="messageStore.message" />
 	</h2>
+	<a href="<s:url action='register.do'/>">Go to registration</a>
 </body>
 </html>
