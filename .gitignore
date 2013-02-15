@@ -1,5 +1,12 @@
 *.class
 
+#bin folders
+target/
+
+#eclipse 
+.project
+.settings
+
 # Package Files #
 *.jar
 *.war
